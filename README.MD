@@ -31,7 +31,7 @@ This project provides a structured backend setup using **Spring Boot** and **Spr
 - Auto-database schema generation
 - CRUD operations with minimal code
 - Easy database switching (H2, MySQL)
-- Optional REST API (if added later)
+
 
 ---
 
